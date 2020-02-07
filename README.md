@@ -7,5 +7,5 @@ Game of Snake developed during Highschool's summer break in 2015. At that time i
 
 
 ------------------------------------------------------------------------------------
-#Snake is part of the Dinosaur Collection
-#The Dinosaur Collection is composed by projects built at the beginning of my programming adventure
+**Snake is part of the Dinosaur Collection
+**The Dinosaur Collection is composed by projects built at the beginning of my programming adventure
